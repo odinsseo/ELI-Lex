@@ -35,4 +35,4 @@ ELI-lex ed il suo sviluppatore non sono responsabili per eventuali dati personal
 
 ### Licenza
 ![Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)  
-Scaricando questo software dichiari di aver preso visione e della sua licenza (Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale).
+Scaricando questo software dichiari di aver preso visione e di accettare la sua [licenza](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.it#languages) (Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale).
