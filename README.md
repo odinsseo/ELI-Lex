@@ -18,7 +18,7 @@ Nella pagina che appare si può:
 - consultare la costituzione; 
 - usare un link rapido per collegarsi ad un codice di leggi italiano; 
 - usare un link rapido per visionare un trattato (fondamentale) dell'Unione Europea; 
-- cercare un atto.
+- cercare un atto.  
 Di particolare interesse è l'ultima funzionalità elencata. Per ricercare un atto, basta cliccare sulla giurisdizione opportuna nella videata che appare sul browser dopo aver aperto *launch.html*. A seconda della giurisdizione scelta possono apparire pagine diverse, ma ognuna di questa chiederà il tipo di atto che si vuole ottenere, i suoi estremi (nella giurisdizione italiana sono richiesti numero, giorno, mese e anno, mentre in quella europea bastano numero e anno) e, se si desidera, la data per ottenere il testo vigente all'istante temporale specificato (se non viene precisata, il sistema mostrerà la norma vigente al giorno della ricerca).
 
 ### Problemi e suggerimenti
