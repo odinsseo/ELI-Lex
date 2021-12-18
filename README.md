@@ -1,7 +1,7 @@
 # ELI-lex <!-- omit in toc -->
 
 di Stefano Bosoppi  
-Versione: 0.1
+Versione: 1.0.0
 
 ## Indice <!-- omit in toc -->
 
